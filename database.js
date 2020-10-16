@@ -48,6 +48,11 @@ const dictionary = {
     "word" : "ordinary",
     "lexicalCategory":"Adjective",
     "definition" : "with no special or distinctive features; normal"
+  },
+  "sumptuous" : {
+    "word" : "sumptuous",
+    "lexicalCategory":"Adjective",
+    "definition" : "splendid and expensive-looking"
   }
 }
 
